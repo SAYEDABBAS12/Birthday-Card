@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image:url(hOye.gif);
+    image-rendering: auto;
+    background-position:center;
+    background-size:cover;
+}
+
+Img{
+    width: 600px;
+    height:400px;
+}
+#img2
+{
+    width: 500px;
+    height: 550px;
+}
